@@ -94,7 +94,7 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include 10.0.0.5, 10.0.0.6, and 10.1.0.5. 
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+
 - The playbook is the install-elk.yml file and can found in the directory of /etc/ansible/.
 - You need to update the hosts file to be able to run the playbook on a specific machine. You use the sudo docker start command to launch the Elk container.
 - http://your.ELK-VM.External.IP:5601/app/kibana 
